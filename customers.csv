@@ -1,0 +1,277 @@
+,Total sales by category,,,
+,Category,Sum of Total Sales,,
+,Bath,117580,,
+,Bedding,289133,,
+,Deccor,299795,,
+,Furniture,367738,,
+,Kitchen,301224,,
+,Lighting,251827,,
+,Outdoor,270505,,
+,Storage,148614,,
+,Grand Total,2046416,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Total Count by Status,,,
+,Status,Count of customer_id,,
+,canceled,344,,
+,returned,407,,
+,completed,8456,,
+,Grand Total,9207,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Total Sales by Payment Method,,,
+,Payment Method,Sum of Total Sales,,
+,gift_card,119274,,
+,apple_pay,313649,,
+,paypal,441302,,
+,credit_card,1172191,,
+,Grand Total,2046416,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Total Unit Price from Cateogry subtract by Years,,,
+,Sum of unit_price,Column Labels,,
+,Category,2024,2025,Grand Total
+,Bath,44215,52090,96305
+,Bedding,107067,125317,232384
+,Deccor,110988,133740,244728
+,Furniture,168960,206533,375493
+,Kitchen,110583,135727,246309
+,Lighting,93927,111391,205318
+,Outdoor,105562,114844,220406
+,Storage,51090,70481,121570
+,Grand Total,792392,950121,1742513
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Total Sales from Category subtruct by Years,,,
+,Sum of Total Sales,Column Labels,,
+,Category,2024,2025,Grand Total
+,Bath,53715,63865,117580
+,Bedding,132338,156795,289133
+,Deccor,137115,162680,299795
+,Furniture,165571,202168,367738
+,Kitchen,133906,167318,301224
+,Lighting,115063,136765,251827
+,Outdoor,126458,144047,270505
+,Storage,62081,86532,148614
+,Grand Total,926247,1120170,2046416
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Total Sales from Product subtruct by Years,,,
+,Sum of Total Sales,Years,,
+,Product Name,2024,2025,Grand Total
+,Bamboo Bed Skirt,11681,17446,29127
+,Bamboo Garden Hose Reel,10718,16420,27137
+,Bamboo Laundry Basket,2201,2578,4780
+,Bamboo Nightstand,15661,28826,44487
+,Bamboo Outdoor Rug,3086,4868,7954
+,Bamboo Umbrella Stand,2107,1981,4088
+,Brass Baking Sheet,16459,19756,36215
+,Brass Bistro Set,12267,16137,28404
+,Brass Chef Knife,8496,8006,16502
+,Brass Salad Spinner,3628,5366,8994
+,Brass Towel Set,7335,9561,16896
+,Ceramic Bedside Lamp,15398,20201,35599
+,Ceramic Fire Pit,10028,13068,23097
+,Ceramic Knife Block,12451,13385,25836
+,Ceramic Quilt,21065,23314,44379
+,Classic Decorative Tray,10742,11488,22230
+,Classic Dining Chair Pair,27902,31817,59719
+,Classic Garland,19088,23812,42900
+,Classic Pillow Pair,8466,9172,17637
+,Classic Sheet Set,8012,11112,19123
+,Classic Skillet,7743,10081,17825
+,Classic Table Runner,3520,4276,7797
+,Coastal Closet System,10775,17142,27917
+,Coastal Coat Rack,2588,2522,5110
+,Coastal Picture Frame Set,20042,27559,47601
+,Coastal Planter Set,10077,9915,19992
+,Coastal Waffle Towel Set,2290,3624,5914
+,Coastal Weighted Blanket,5557,5777,11334
+,Cotton Bath Mat,2419,3433,5852
+,Cotton Hamper,6728,8340,15068
+,Cotton Linen Sheet Set,16701,17307,34008
+,Cotton Pantry Container Set,6777,6898,13675
+,Cotton Patio Chair,38001,36461,74462
+,Cotton Pour Over Kettle,13330,19574,32905
+,Linen Accent Chair,10126,15133,25259
+,Linen Bath Robe,10064,9147,19211
+,Linen Duvet Cover,15230,18443,33674
+,Linen Faux Plant,8254,11374,19628
+,Linen Loveseat,6999,6607,13607
+,Linen Mixing Bowl Set,7675,14156,21831
+,Linen Pendant Light,18433,18323,36756
+,Linen Pillowcase Set,12797,14857,27654
+,Linen TV Stand,5264,6720,11984
+,Marble Bookshelf,22538,22688,45226
+,Marble Tea Kettle,11901,15490,27391
+,Matte Black Dutch Oven,2548,3648,6196
+,Matte Black Hammock,18621,21813,40434
+,Matte Black Shower Curtain,714,922,1636
+,Matte Black Stock Pot,4820,4406,9226
+,Matte Black Throw Pillow,6789,9565,16354
+,Matte Black Utensil Set,5098,6607,11706
+,Modern Bath Caddy,4214,5145,9359
+,Modern Floating Shelf,6239,8390,14629
+,Modern Spice Rack,9971,8776,18747
+,Modern Under Bed Bin,10225,15151,25376
+,Modern Wreath,20195,23277,43473
+,Modern Writing Desk,7887,11046,18933
+,Nordic Arc Lamp,14567,23536,38103
+,Nordic Coffee Table,18198,21954,40152
+,Nordic Desk Lamp,2196,4484,6679
+,Nordic Floor Lamp,14420,15133,29553
+,Nordic Ornament Set,15220,17611,32831
+,Nordic Side Table,23683,22221,45904
+,Nordic Storage Bench,5412,7537,12949
+,Nordic Toothbrush Holder,8310,8921,17231
+,Nordic Wall Art Print,3287,2887,6174
+,Oak Measuring Cup Set,13506,14976,28481
+,Oak Solar Path Lights,14843,15341,30184
+,Oak Throw Blanket,7097,9554,16651
+,Oak Vase,1454,1794,3248
+,Oak Wall Sconce,18752,15395,34148
+,Rattan Candle Trio,11667,11292,22959
+,Rattan Console Table,16933,22412,39345
+,Rattan Grill Tool Set,4114,4302,8416
+,Stoneware Bar Stool,4966,5208,10174
+,Stoneware Soap Dispenser,4242,4254,8496
+,Stoneware Table Lamp,3890,5669,9559
+,Stoneware Wall Mirror,16856,17744,34600
+,Velvet Drawer Organizer,2303,2976,5279
+,Velvet LED Strip Kit,9272,11710,20982
+,Velvet Mattress Topper,10756,13025,23782
+,Velvet Outdoor Cushion Pair,2596,3742,6338
+,Velvet Storage Basket,9827,16293,26120
+,Velvet String Lights,18135,22314,40448
+,Walnut Coffee Grinder,1811,3016,4827
+,Walnut Comforter,5969,7209,13178
+,Walnut Cutting Board,14469,20074,34543
+,Walnut Down Pillow,9008,9578,18586
+,Walnut Hand Towel Pair,7399,10519,17918
+,Walnut Shoe Rack,11146,14581,25727
+,Grand Total,926247,1120170,2046416
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Total Unit Price from Product subtruct by Years,,,
+,Sum of unit_price,Years,,
+,Product Name,2024,2025,Grand Total
+,Bamboo Bed Skirt,10353,13151,23504
+,Bamboo Garden Hose Reel,8777,13582,22359
+,Bamboo Laundry Basket,1853,2040,3893
+,Bamboo Nightstand,15900,29494,45394
+,Bamboo Outdoor Rug,2575,3477,6052
+,Bamboo Umbrella Stand,1673,1729,3402
+,Brass Baking Sheet,14651,15245,29896
+,Brass Bistro Set,10889,13166,24056
+,Brass Chef Knife,6881,7030,13911
+,Brass Salad Spinner,2974,4666,7640
+,Brass Towel Set,6005,7698,13703
+,Ceramic Bedside Lamp,12359,16654,29014
+,Ceramic Fire Pit,9026,10602,19629
+,Ceramic Knife Block,9789,11203,20992
+,Ceramic Quilt,16613,17668,34281
+,Classic Decorative Tray,8474,9055,17529
+,Classic Dining Chair Pair,28638,32508,61145
+,Classic Garland,16334,19277,35610
+,Classic Pillow Pair,6317,7206,13524
+,Classic Sheet Set,6437,9134,15571
+,Classic Skillet,6307,8617,14924
+,Classic Table Runner,2833,3439,6271
+,Coastal Closet System,9395,14737,24132
+,Coastal Coat Rack,2036,2094,4130
+,Coastal Picture Frame Set,17181,22364,39544
+,Coastal Planter Set,9314,8646,17960
+,Coastal Waffle Towel Set,2000,3105,5105
+,Coastal Weighted Blanket,4289,4792,9082
+,Cotton Bath Mat,2076,2701,4777
+,Cotton Hamper,5191,6999,12190
+,Cotton Linen Sheet Set,13445,13267,26712
+,Cotton Pantry Container Set,5243,5408,10651
+,Cotton Patio Chair,29483,28501,57984
+,Cotton Pour Over Kettle,11624,15749,27373
+,Linen Accent Chair,10362,15495,25857
+,Linen Bath Robe,8527,7404,15931
+,Linen Duvet Cover,12126,17104,29230
+,Linen Faux Plant,6819,9503,16322
+,Linen Loveseat,7279,6762,14041
+,Linen Mixing Bowl Set,6399,10667,17066
+,Linen Pendant Light,15465,14044,29509
+,Linen Pillowcase Set,9791,11852,21643
+,Linen TV Stand,5334,6800,12134
+,Marble Bookshelf,22896,23039,45934
+,Marble Tea Kettle,10087,11915,22002
+,Matte Black Dutch Oven,2046,2969,5015
+,Matte Black Hammock,16481,16789,33270
+,Matte Black Shower Curtain,615,671,1286
+,Matte Black Stock Pot,3884,3651,7535
+,Matte Black Throw Pillow,5762,7710,13472
+,Matte Black Utensil Set,4179,5543,9722
+,Modern Bath Caddy,3743,3985,7728
+,Modern Floating Shelf,4859,6746,11605
+,Modern Spice Rack,7991,7559,15550
+,Modern Under Bed Bin,8329,12347,20676
+,Modern Wreath,15289,19702,34991
+,Modern Writing Desk,7995,11465,19460
+,Nordic Arc Lamp,12959,18647,31607
+,Nordic Coffee Table,18392,22360,40752
+,Nordic Desk Lamp,1824,3391,5214
+,Nordic Floor Lamp,10877,12810,23687
+,Nordic Ornament Set,11523,13453,24976
+,Nordic Side Table,24376,22686,47061
+,Nordic Storage Bench,5434,7657,13091
+,Nordic Toothbrush Holder,6692,7461,14153
+,Nordic Wall Art Print,2519,2561,5080
+,Oak Measuring Cup Set,9990,12017,22007
+,Oak Solar Path Lights,11867,11738,23606
+,Oak Throw Blanket,5517,7288,12806
+,Oak Vase,1119,1500,2619
+,Oak Wall Sconce,15878,13507,29385
+,Rattan Candle Trio,9239,10068,19307
+,Rattan Console Table,17238,22891,40128
+,Rattan Grill Tool Set,3199,3674,6874
+,Stoneware Bar Stool,5120,5376,10495
+,Stoneware Soap Dispenser,3431,3398,6829
+,Stoneware Table Lamp,3077,4422,7499
+,Stoneware Wall Mirror,13898,15109,29007
+,Velvet Drawer Organizer,1799,2330,4129
+,Velvet LED Strip Kit,6767,9079,15847
+,Velvet Mattress Topper,8679,10285,18964
+,Velvet Outdoor Cushion Pair,2274,2939,5214
+,Velvet Storage Basket,8084,12678,20762
+,Velvet String Lights,14719,18836,33556
+,Walnut Coffee Grinder,1410,2551,3961
+,Walnut Comforter,5399,5354,10753
+,Walnut Cutting Board,12370,16345,28715
+,Walnut Down Pillow,8098,8216,16315
+,Walnut Hand Towel Pair,5933,8668,14601
+,Walnut Shoe Rack,9491,12101,21592
+,Grand Total,792392,950121,1742513
